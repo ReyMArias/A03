@@ -1,4 +1,4 @@
-Directions on how to use GitHub and GitBash
+Directions on how to use GitHub, GitBash, and WebStorm
 
 Step 1: Signup for GitHub using this link https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home. GitHub will then lead you through the process of creating an account.
 
@@ -55,3 +55,48 @@ Step 26: you will be prompted to add the file to Git, click Add.
 Step 27: On the top, a few options to the right of File, is a Git option. from here you can commit and push changes. Click on Git, Commit, and then type a commit message, and click on commit
 
 Step 28: You can then click on git again, then push, and your files will be pushed onto Github.
+
+Refferences
+
+https://njit.instructure.com/courses/21542/files/3171313?module_item_id=688096
+https://njit.instructure.com/courses/21542/files/3171367?module_item_id=688095
+
+
+
+Glossary Terms
+
+Branch: A Branch of a repository is an area in a repository with the function of testing out features before commiting them to the main branch, which can be called a trunk
+
+
+Clone: A clone reffers to creating a copy local copy of a remote repository. This will create a new local repository as well.
+
+
+Commit: A commit is a change to a file or files, ie you are commiting a change
+
+
+Fetch: A fetch refferences to creating a copy of a remote repository. This will not affect the local repository.
+
+
+GIT: a VCS that allows you to manage and keep track of source code histories
+
+
+Github: A cloud based hosting service for Git repositories
+
+
+Merge: A merge refferse to the process of putting forked history together. In other words, it combines the differences in files
+
+
+Merge Conflict: A merge conflict happens during a merge when two different branches edited the same line in a file. In other words, you have different commits on different branches, basically creating two trunks from one branch
+
+
+Push: A push reffers to uploading local repository files to a remote repository
+
+
+Pull: A pull reffers to downloading remote repository files to a local repository
+
+
+Remote: Remote refers to anything not on your pc, ie not local.
+
+
+Repository: Its the folder that keeps track of all the changes, basically being the history of the project.
+
