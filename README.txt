@@ -11,6 +11,10 @@ Step 8: With GitBash open, type 'git init -b main'. This will initialize the loc
 Step 9: Use command 'git add .' to add all files inside the repository for the first commit. There should be no files at the moment. 
 Step 10: Go to GitHub and grab either the HTTPS or the SSH for your repository. These are located on the green 'code' button when you look at your repository.
 Step 11: Use command 'git remote add origin [the HTTPS or the SSH]'. You should not be connected to your remote repository. You can check to see which remote you are in by using the command 'git remote -v'
-Step 11: Use command 'git push origin main'. This pushes any changes done on your local repository to your remote repository. You can use 'git pull origin main' to pull any changes on your remote repository to your local repository.
+Step 11: Use command 'git push origin master'. This pushes any changes done on your local repository to a remote repository branch.
+Step 12: GitHub will now open up a small window and ask you to either sign in or for a token. Simply select the option to sign in via the browser
+Step 13: A new browser tab will open asking you to authorize GitBash. Authorize, and you should see on GitBash that you have pushed your local to your remote on a new branch. You can go onto your GitHub repository and go to the Pull Requests tab and see that master has made recent pushes. 
+Step 14: 
+
 
 
