@@ -9,8 +9,9 @@ Step 6: Create a local repository by making an empty folder on your pc.
 Step 7: Right click, and click on the 'Git Bash here' option. This will open up GitBash with the directory of that folder.
 Step 8: With GitBash open, type 'git init'. This will initialize the local directory as a Git Repository
 Step 9: Create a READEME.md file if you have not done so already, or have not selected the checkbox in step 5.
-Step 10: Use command 'git add ." to add all files in your local repository to be commited and pushed to GitHub. Alternatively, you can use 'git add [name of file]' to add specific files
-Step 11: Use command 'git branch -M main' to connect to your main branch.
-Step 12: You will now need either the HTTPS or the SSH of your GitHub repository. You can find it on your repository by clicking the green button that says 'code'. Git hub might also give you the HTTPS or SSH on the repo, as well as a quick start guide.
-Step 13: Using the HTTPS or SSH, use command 'git remote add origin [HTTPS or SSH]' to connect to your local and remote repositories.
-Step 13: Use command 'git push -u origin main' to push local changes onto your remote repository.
+Step 10: Use command 'git add ." to add all files in your local repository to be commited and pushed to GitHub. Alternatively, you can use 'git add [name of file]' to add specific file
+Step 11: Use command 'git commit -m "commit message" to commit the push. Make sure that the message is meaningful and descriptive
+Step 12: Use command 'git branch -M main' to connect to your main branch.
+Step 13: You will now need either the HTTPS or the SSH of your GitHub repository. You can find it on your repository by clicking the green button that says 'code'. Git hub might also give you the HTTPS or SSH on the repo, as well as a quick start guide.
+Step 14: Using the HTTPS or SSH, use command 'git remote add origin [HTTPS or SSH]' to connect to your local and remote repositories.
+Step 15: Use command 'git push -u origin main' to push local changes onto your remote repository.
